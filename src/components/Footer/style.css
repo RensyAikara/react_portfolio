@@ -1,0 +1,13 @@
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 120px;
+  }
+  
+  .footer .text-muted {
+    font-family: "EB Garamond", serif;
+    padding-top: 4.5%;
+  }

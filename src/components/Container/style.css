@@ -1,0 +1,15 @@
+.profilepicture {
+    max-width: 200px;
+    padding-left: 10%;
+  }
+
+  .aboutpage{
+      padding-top: 10%;
+  }
+
+  .aboutarea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10;
+  }
